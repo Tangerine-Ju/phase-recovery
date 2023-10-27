@@ -117,11 +117,14 @@ Keywords: phase imaging and optical diffraction tomography etc.
 - [Zachary J. Smith and Kaiqin Chu ](http://staff.ustc.edu.cn/)(The University of Science and Technology of China)  
 Keywords: phase imaging and super-resolution imaging etc.
 
+- [Qionghai Dai ](http://media.au.tsinghua.edu.cn/english/index/index.html)(Tsinghua university)  
+Keywords: computational imaging and phase imaging etc.
+
 - [Shai Dekel ](https://www.shaidekel.com/)(Tel-Aviv University)  
 Keywords: phase retrieval etc.
 
 - [Jianglei Di ](https://www.researchgate.net/profile/Jianglei-Di)(GuangDong University of Technology)  
-Keywords: computational imaging and holography etc.
+Keywords: holography etc.
 
 - [Peng Gao ](https://faculty.xidian.edu.cn/GP3/zh_CN/index.htm)(Xidian University)  
 Keywords: phase imaging and super-resolution imaging etc.
@@ -174,7 +177,7 @@ Keywords: phase imaging, optical diffraction tomography and biomedical imaging e
 - [Kemao Qian ](https://www3.ntu.edu.sg/home/mkmqian/)(Nanyang Technological University)  
 Keywords: phase unwrapping and fringe analysis etc.
 
-- [Chenggen Quan ](https://scholar.google.com/citations?user=CA9pJgwAAAAJ)(Phase Retrieval)  
+- [Chenggen Quan ](https://scholar.google.com/citations?user=CA9pJgwAAAAJ)(National University of Singapore)  
 Keywords: phase retrieval and holography etc.
 
 - [Liyong Ren ](http://aoi.snnu.edu.cn/)(Shaanxi Normal University)  
@@ -222,11 +225,20 @@ Keywords: holography and super-resolution imaging etc.
 - [Masayuki Yokota ](http://www.ecs.shimane-u.ac.jp/~yokota/english/)(Shimane University)  
 Keywords: holography etc.
 
+- [Yingjie Yu ](https://auto.shu.edu.cn/info/1343/11077.htm)(Shanghai University)  
+Keywords: holography and computational imaging etc.
+
+- [Caojin Yuan ](http://physics.njnu.edu.cn/info/1050/1928.htm)(Nanjing Normal University)  
+Keywords: holography etc.
+
 - [Fucai Zhang ](http://zhangfc-research-group.com/)(Southern University of Science and Technology)  
 Keywords: phase retrieval, wavefront sensing, and holography etc.
 
 - [Shaohui Zhang ](https://scholar.google.nl/citations?hl=en&user=GDQ23eAAAAAJ)(Beijing Institute of Technology)  
 Keywords: phase retrieval and Fourier ptychography etc.
+
+- [Yaping Zhang ](https://lxy.kmust.edu.cn/info/1137/1762.htm)(Kunming University of Science and Technology)  
+Keywords: holography etc.
 
 - [Jianlin Zhao ](https://teacher.nwpu.edu.cn/m/en/1982000067.html)(Northwestern Polytechnical University)  
 Keywords: holography and computational imaging etc.
@@ -459,7 +471,7 @@ Keywords: holography etc.
 - [Figen S. Oktem ](https://blog.metu.edu.tr/figeno/)(Middle East Technical University)  
 Keywords: phase retrieval, inverse problem, and computational imaging etc.
 
-- [Wolfgang Osten ](https://www.ito.uni-stuttgart.de/)(University of Stuttgart)  
+- [Wolfgang Osten ](https://www.archida.uni-stuttgart.de/scientists/Osten-00005/)(University of Stuttgart)  
 Keywords: interferometry and holography etc.
 
 - [Nikolay V. Petrov ](https://scholar.google.com/citations?user=W1B-hagAAAAJ)(ITMO University)  
@@ -489,11 +501,14 @@ Keywords: holography, phase retrieval, and coherent diffractive imaging etc.
 - [Michael Unser ](http://bigwww.epfl.ch/)(EPFL)  
 Keywords: phase retrieval, phase unwrapping, transport of intensity equation (TIE), and biomedical imaging etc.  
 
+- [Giovanni Volpe ](http://www.softmatterlab.org/)(Giovanni Volpe)  
+Keywords: holography in biomedical and particle analysis etc.  
+
 [Back to Top](#toc)
 
 <a name="groups-oceania"></a> 
 ## Oceania
--[Andrew Lambert](https://research.unsw.edu.au/people/associate-professor-andrew-lambert/)(University of New South Wales)  
+- [Andrew Lambert](https://research.unsw.edu.au/people/associate-professor-andrew-lambert/)(University of New South Wales)  
 Keywords: wavefront sensing and adaptive optics etc.
 
 - [Rainer Leitgeb ](https://mpbmt.meduniwien.ac.at/en/about-us/research-groups/leitgeb-drexler-group/)(Medical University of Vienna)  
@@ -572,7 +587,7 @@ Keywords: interferometer and coherence scanning interferometric (CSI) profiler e
 
 <a name="pr-papers"></a>
 ## Conventional phase recovery 
-(Here, we mention only the classic pioneering papers)
+(Here, we only mention the classic pioneering papers)
 <a name="holo-papers"></a>
 ### Holography/Interferometry
 
@@ -640,7 +655,7 @@ Opt. Lett. 3(1), 27 (1978).
 Appl. Opt. 21(15), 2758 (1982).
 
 <a name="op-am-papers"></a>
-#### Axial multi-intensity alternating projection
+#### Axial multi-intensity alternating projection (Multi-height phase retrieval)
 - L. J. Allen and M. P. Oxley  
 *[Phase retrieval from series of images obtained by defocus variation](https://doi.org/10.1364/10.1016/S0030-4018(01)01556-5)*  
 Optics Communications 199(1–4), 65–75 (2001).
@@ -652,7 +667,7 @@ Opt. Lett. 30(8), 833 (2005).
 Opt. Express 20(3), 3129 (2012).
 
 <a name="op-rm-papers"></a>
-#### Radial multi-intensity alternating projection (Ptychographic iterative engine, PIE)
+#### Radial multi-intensity alternating projection (Real-space ptychography)
 - H. M. L. Faulkner and J. M. Rodenburg  
 *[Movable Aperture Lensless Transmission Microscopy: A Novel Phase Retrieval Algorithm](https://doi.org/10.1103/PhysRevLett.93.023903)*  
 Phys. Rev. Lett. 93(2), 023903 (2004).
@@ -661,7 +676,7 @@ Phys. Rev. Lett. 93(2), 023903 (2004).
 Appl. Phys. Lett. 85(20), 4795–4797 (2004).
 
 <a name="op-anm-papers"></a>
-#### Angular multi-intensity alternating projection (Fourier ptychography, FP)
+#### Angular multi-intensity alternating projection (Fourier ptychography)
 - G. Zheng, R. Horstmeyer, and C. Yang  
 *[Wide-field, high-resolution Fourier ptychographic microscopy](https://doi.org/10.1038/nphoton.2013.187)*  
 Nature Photon 7(9), 739–745 (2013).
